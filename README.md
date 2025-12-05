@@ -2,9 +2,9 @@
 
 **Développeur Web Full-Stack** · 27 ans · France - Angers
 
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=jessy-david-dev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
+<img align="right" width="400" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jessy-david-dev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
 
-Je construis des applications web modernes avec Next.js, React et TypeScript.  
+Je construis des applications web modernes avec Next.js, React et TypeScript.
 Passionné par les interfaces épurées et les expériences utilisateur soignées.
 
 <br clear="right"/>
@@ -43,10 +43,10 @@ Passionné par les interfaces épurées et les expériences utilisateur soignée
 
 ### Projets
 
-🔹 **[jessy-david.dev](https://jessy-david.dev)** - Mon portfolio
-🔹 **[quantumcraft-studios.com](https://quantumcraft-studios.com)** - Services d'hébergeur de serveurs de jeux
-🔹 **[bôba là]([https://jessy-david.dev](https://fidelite.boba-la.fr/))** - Application web de fidélité client avec système de points pour l'entreprise bôba là.
-🔹 **[Radio Box](https://radio-box.app)** - Bot Discord permettant d'écouter des web radios dans un salon vocal avec interface intuitive.
+- **[jessy-david.dev](https://jessy-david.dev)** - Mon portfolio
+- **[quantumcraft-studios.com](https://quantumcraft-studios.com)** - Services d'hébergement  
+- **[bôba là](https://fidelite.boba-la.fr/)** - Application web de fidélité clients
+- **[Radio Box](https://radio-box.app)** - Bot Discord radio
 
 ---
 
@@ -54,12 +54,12 @@ Passionné par les interfaces épurées et les expériences utilisateur soignée
 
 [![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:davidjessy@proton.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessy-david/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/UltraLionFr)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/UltraLion__)
 
 ---
 
 <details>
 <summary>📊 Langages les plus utilisés</summary>
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessy-david-dev&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jessy-david-dev&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
 </details>
