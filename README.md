@@ -46,6 +46,7 @@ Passionné par les interfaces épurées et les expériences utilisateur soignée
 - **[jessy-david.dev](https://jessy-david.dev)** - Mon portfolio
 - **[quantumcraft-studios.com](https://quantumcraft-studios.com)** - Services d'hébergement  
 - **[bôba là](https://fidelite.boba-la.fr/)** - Application web de fidélité clients
+- **[Ibout.me](https://ibout.me)** - Rework Bento.me
 - **[Radio Box](https://radio-box.app)** - Bot Discord radio
 
 ---
